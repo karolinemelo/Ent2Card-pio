@@ -1,11 +1,32 @@
-<head>
-<meta charset="utf-8">
-<title>Pagina2</title>
-<meta name="Description"
-content="Pagina2">
-<meta name="Keywords" content="Curso,
-HTML, CSS, programacion WEB">
-<style type="text/css">
-.miEstilo {color: aqua}
-</style>
-</head>
+html, body{
+    margin: 0;
+}
+#Imagem_Fundo {
+    background: url("capa_paes.jpg"); height: 200px;
+    text-align: center;
+}
+#Título{
+    color: white; 
+    padding-top: 5%;
+}
+#Subtítulo{
+    color: white;
+}
+    #tabelas{
+        table: layout 30px;
+        text-align: center;
+
+    }
+    #comfotos{
+        border-left-style: hidden;
+        text-align: center; vertical-align: middle;
+        tab-size: 5px
+        
+    }
+    #Fotos{
+      width: 100%; align-content:space-around; height: 100px; left: 600px;
+    }
+    #Contatos{
+        text-align: center;
+        
+    }
