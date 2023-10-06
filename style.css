@@ -30,3 +30,23 @@ html, body{
         text-align: center;
         
     }
+    footer {
+        background-color:rgb(226, 229, 236);
+        float: left;
+        width: 100%;
+        color: black;
+        text-align: center;
+    }
+    header {
+    background-color:rgb(226, 229, 236);
+    float: left;
+    width: 100%;
+    color: black;
+    text-align: center;
+    }
+    #centro {
+        text-align: center;
+        background-color: rgb(226, 229, 236);
+        color: black;
+        padding-top: 2%;
+    }
